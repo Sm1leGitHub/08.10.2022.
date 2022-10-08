@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 int main() {
 	setlocale(LC_ALL, "RUS");
@@ -43,21 +43,21 @@ int main() {
 	}*/
 	/*int NumberOfFinger = 0;
 
-	cout << "Ââåäèòå íîìåð: ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½Ð¾Ð¼ÐµÑ€: ";
 	cin >> NumberOfFinger;
 
 	if (NumberOfFinger == 1)
-		cout << "Ðåçóëüòàò:  Áîëüøîé ïàëåö ";
+		cout << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚:  Ð‘Ð¾Ð»ÑŒÑˆÐ¾Ð¹ Ð¿Ð°Ð»ÐµÑ† ";
 	else if (NumberOfFinger == 2)
-		cout << "Ðåçóëüòàò: Óêàçàòåëüíûé ïàëåö";
+		cout << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: Ð£ÐºÐ°Ð·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð¿Ð°Ð»ÐµÑ†";
 	else if (NumberOfFinger == 3)
-		cout << "Ðåçóëüòàò: Ñðåäíèé ïàëåö";
+		cout << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: Ð¡Ñ€ÐµÐ´Ð½Ð¸Ð¹ Ð¿Ð°Ð»ÐµÑ†";
 	else if (NumberOfFinger == 4)
-		cout << "Ðåçóëüòàò: Áåçûìÿííûé ïàëåö";
+		cout << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: Ð‘ÐµÐ·Ñ‹Ð¼ÑÐ½Ð½Ñ‹Ð¹ Ð¿Ð°Ð»ÐµÑ†";
 	else if (NumberOfFinger == 5)
-		cout << "Ðåçóëüòàò: Ìèçèíåö";
+		cout << "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚: ÐœÐ¸Ð·Ð¸Ð½ÐµÑ†";
 	else
-		cout << "Íåò ñîîòâåòñòâèé!";
+		cout << "ÐÐµÑ‚ ÑÐ¾Ð¾Ñ‚Ð²ÐµÑ‚ÑÑ‚Ð²Ð¸Ð¹!";
 
 	return 0;*/
 }
